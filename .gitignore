@@ -3,3 +3,6 @@
 ################################################################################
 
 /GZipTest/.vs/GZipTest
+/GZipTest/GZipTest/bin/Debug
+/GZipTest/GZipTest/obj/Debug
+/GZipTest/GZipTest.sln.DotSettings.user
